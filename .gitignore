@@ -1,2 +1,7 @@
 
 .DS_Store
+.idea/embedding.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+embedding
